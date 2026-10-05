@@ -1,4 +1,4 @@
-# DER — Modelo transaccional (`LOS_BORBOTONES`)
+# DER — Modelo transaccional
 
 Diagrama generado a partir de los `CREATE TABLE` del procedure `creacionDatos`.
 `PK` = clave primaria · `FK` = clave foránea · línea simple con círculo (`o`) = FK que admite NULL.
