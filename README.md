@@ -78,11 +78,11 @@ erDiagram
 
 ###  Decisiones de diseño
 
-- ** Persona como entidad común**: agentes, propietarios, inquilinos y compradores comparten datos personales; los roles se modelan como relaciones.
-- ** Catálogos** para todos los valores tipificados: tipo y estado de inmueble, moneda, medio de pago, orientación, disposición, ambientes, etc.
-- ** Jerarquía de ubicación** Provincia → Localidad → Barrio, compartida por inmuebles y sucursales.
-- ** Características como relación N:M**, en lugar de columnas booleanas fijas: agregar una nueva no requiere cambiar el esquema.
-- ** El anuncio como eje**: ventas y alquileres se originan en un anuncio publicado.
+- **Persona como entidad común**: agentes, propietarios, inquilinos y compradores comparten datos personales; los roles se modelan como relaciones.
+- **Catálogos** para todos los valores tipificados: tipo y estado de inmueble, moneda, medio de pago, orientación, disposición, ambientes, etc.
+- **Jerarquía de ubicación** Provincia → Localidad → Barrio, compartida por inmuebles y sucursales.
+- **Características como relación N:M**, en lugar de columnas booleanas fijas: agregar una nueva no requiere cambiar el esquema.
+- **El anuncio como eje**: ventas y alquileres se originan en un anuncio publicado.
 
 ---
 
