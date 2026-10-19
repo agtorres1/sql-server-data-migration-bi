@@ -156,9 +156,3 @@ erDiagram
 ```
 
 ---
-
-<div align="center">
-
-**Hecho por [Tu Nombre](https://www.linkedin.com/in/tu-usuario)**·  tu@email.com
-
-</div>
